@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @denzt
-- 👀 I’m interested in ... painting, cooking, and animals.
+- 👀 I’m interested in ... UX/UI Design, painting, nature, and animals.
 - 🌱 I’m currently learning ... vanilla JavaScript, WordPress, and working with responsive code.
-- 💞️ I’m looking to collaborate on ... apps, web pages, and other things I have not considered yet :)
+- 💞️ I’m looking to collaborate on ... apps, web pages, and other products :)
 - 📫 How to reach me ... through my email @  teresa.denz@gmail.com
 
 <!---
